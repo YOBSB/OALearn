@@ -27,62 +27,62 @@
             <scope>test</scope>
         </dependency>
 		
-<!-- hibernate依赖 -->
-<!-- https://mvnrepository.com/artifact/org.hibernate/hibernate-core -->
-<dependency>
-    <groupId>org.hibernate</groupId>
-    <artifactId>hibernate-core</artifactId>
-    <version>4.3.10.Final</version>
-</dependency>
+	<!-- hibernate依赖 -->
+	<!-- https://mvnrepository.com/artifact/org.hibernate/hibernate-core -->
+	<dependency>
+	    <groupId>org.hibernate</groupId>
+	    <artifactId>hibernate-core</artifactId>
+	    <version>4.3.10.Final</version>
+	</dependency>
 
-<!-- https://mvnrepository.com/artifact/org.hibernate.common/hibernate-commons-annotations -->
-<dependency>
-    <groupId>org.hibernate.common</groupId>
-    <artifactId>hibernate-commons-annotations</artifactId>
-    <version>4.0.4.Final</version>
-</dependency>
+	<!-- https://mvnrepository.com/artifact/org.hibernate.common/hibernate-commons-annotations -->
+	<dependency>
+	    <groupId>org.hibernate.common</groupId>
+	    <artifactId>hibernate-commons-annotations</artifactId>
+	    <version>4.0.4.Final</version>
+	</dependency>
 
-<!-- https://mvnrepository.com/artifact/dom4j/dom4j -->
-<dependency>
-    <groupId>dom4j</groupId>
-    <artifactId>dom4j</artifactId>
-    <version>1.6.1</version>
-</dependency>
+	<!-- https://mvnrepository.com/artifact/dom4j/dom4j -->
+	<dependency>
+	    <groupId>dom4j</groupId>
+	    <artifactId>dom4j</artifactId>
+	    <version>1.6.1</version>
+	</dependency>
 
-<!-- https://mvnrepository.com/artifact/antlr/antlr -->
-<dependency>
-    <groupId>antlr</groupId>
-    <artifactId>antlr</artifactId>
-    <version>2.7.7</version>
-</dependency>
-		
-		<!-- https://mvnrepository.com/artifact/org.hibernate.javax.persistence/hibernate-jpa-2.1-api -->
-<dependency>
-    <groupId>org.hibernate.javax.persistence</groupId>
-    <artifactId>hibernate-jpa-2.1-api</artifactId>
-    <version>1.0.0.Final</version>
-</dependency>
-		<!-- https://mvnrepository.com/artifact/org.hibernate/hibernate-c3p0 -->
-<dependency>
-    <groupId>org.hibernate</groupId>
-    <artifactId>hibernate-c3p0</artifactId>
-    <version>4.3.10.Final</version>
-</dependency>
-		
-<dependency>
-    <groupId>org.hibernate</groupId>
-    <artifactId>hibernate-validator</artifactId>
-    <version>5.2.4.Final</version>
-</dependency>
-		
-		
-		
-<!-- Gson依赖 -->
-<dependency>
-	<groupId>com.google.code.gson</groupId>
-	<artifactId>gson</artifactId>
-	<version>2.8.2</version>
-</dependency>  
+	<!-- https://mvnrepository.com/artifact/antlr/antlr -->
+	<dependency>
+	    <groupId>antlr</groupId>
+	    <artifactId>antlr</artifactId>
+	    <version>2.7.7</version>
+	</dependency>
+
+			<!-- https://mvnrepository.com/artifact/org.hibernate.javax.persistence/hibernate-jpa-2.1-api -->
+	<dependency>
+	    <groupId>org.hibernate.javax.persistence</groupId>
+	    <artifactId>hibernate-jpa-2.1-api</artifactId>
+	    <version>1.0.0.Final</version>
+	</dependency>
+			<!-- https://mvnrepository.com/artifact/org.hibernate/hibernate-c3p0 -->
+	<dependency>
+	    <groupId>org.hibernate</groupId>
+	    <artifactId>hibernate-c3p0</artifactId>
+	    <version>4.3.10.Final</version>
+	</dependency>
+
+	<dependency>
+	    <groupId>org.hibernate</groupId>
+	    <artifactId>hibernate-validator</artifactId>
+	    <version>5.2.4.Final</version>
+	</dependency>
+
+
+
+	<!-- Gson依赖 -->
+	<dependency>
+		<groupId>com.google.code.gson</groupId>
+		<artifactId>gson</artifactId>
+		<version>2.8.2</version>
+	</dependency>  
 		
         <dependency>
             <groupId>javax.servlet</groupId>
